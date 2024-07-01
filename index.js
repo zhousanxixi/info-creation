@@ -1,5 +1,3 @@
-export { default as EntryList } from './EntryList'
+export { default as GradeList } from './GradeList'
 
-export { default as EntryEdit } from './EntryEdit'
-
-export { default as EntryImport } from './EntryImport'
+export { default as GradeEdit } from './GradeEdit'
