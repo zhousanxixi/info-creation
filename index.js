@@ -1,3 +1,5 @@
-export { default as GradeList } from './GradeList'
+export { default as StudentInfo } from './StudentInfo'
 
-export { default as GradeEdit } from './GradeEdit'
+export { default as StudentEdit } from './StudentEdit'
+
+export { default as StudentNew } from './StudentNew'
