@@ -1,0 +1,91 @@
+/* 容器样式 */
+.container {
+    margin: 20px;
+}
+
+/* 表格样式 */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin: 20px auto;
+}
+
+/* 表头样式 */
+thead {
+    background-color: #f2f2f2;
+}
+
+th {
+    padding: 10px;
+    text-align: center;
+    background-color: #eee;
+}
+
+/* 表格数据样式 */
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+/* 表格数据的奇数行样式 */
+tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+/* 表格数据的偶数行样式 */
+tr:nth-child(even) {
+    background-color: #fff;
+}
+
+/* 表格数据的鼠标悬停样式 */
+tr:hover {
+    background-color: #e6e6e6;
+}
+
+.paper-head {
+    margin-bottom: 15px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #592654;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    margin: 0px 5px
+}
+
+.btn:hover {
+    background-color: #7d5479;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.5);
+}
+
+.btn:active {
+    background-color: #21618c;
+}
+
+select,
+input {
+    height: 2.3em;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    margin: 0px 5px;
+        
+}
+
+input:first-child {
+    margin-left: 0px;
+}
