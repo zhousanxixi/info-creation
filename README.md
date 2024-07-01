@@ -1,26 +1,6 @@
-<h1 align="center">信息系统开发课程大作业</h1>
+<h1 align="center">信息系统开发课程大作业个人总结</h1>
 <h2 align="center">学生成绩管理系统</h2>
 
-
-<p align="center"><a href="https://github.com/standard/standard"><img src="https://cdn.jsdelivr.net/gh/standard/standard@master/badge.svg" alt="JavaScript Style Guide"></a></p><p align="center"><img src="https://img.shields.io/badge/Python-3.10.6-blue?logo=python&logoColor=eee" alt="Python">&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-18.2.0-yellow?logo=react&logoColor=eee" alt="React">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vite-4.3.2-red?logo=vite&logoColor=eee" alt="Vite">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Postgresql-14.8-blue?logo=postgresql&logoColor=eee" alt="Postgresql">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ubuntu-22.04-blue?logo=ubuntu&logoColor=eee" alt="Ubuntu"></p>
-
-### 介绍
-2023春季学期信息系统开发课程大作业，实现学生信息管理、成绩信息管理、多条件筛选成绩信息、学生选课分班次、分班次录入成绩功能。
-
-### 系统架构
-- Python
-- React
-- Vite
-- Postgresql
-
-
-### 小组成员
-
-1.  蔡鲲瀚
-2.  刘小荣
-3.  马雪东
-4.  黄欢
-5.  娜非沙·艾尼瓦尔
 
 ### 分工内容
 ##### 蔡鲲瀚
