@@ -1,5 +1,5 @@
-export { default as CourseInfo } from './CourseInfo'
+export { default as EntryList } from './EntryList'
 
-export { default as CourseEdit } from './CourseEdit'
+export { default as EntryEdit } from './EntryEdit'
 
-export { default as CourseNew } from './CourseNew'
+export { default as EntryImport } from './EntryImport'
